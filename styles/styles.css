@@ -333,24 +333,3 @@ footer .footer-content .footer-icon i{
     font-size: 4em;
     cursor: pointer;
 }
-
-@media screen and (max-width:768px) {
-    nav .main-nav{display: none}
-    nav .right-nav{display: none}
-    #about {
-        background: red;
-    }
-    #about .content-wrapper .right img{
-        width: 100%;
-    }
-    #about .box-wrapper{display: none}
-    #features {
-        background: blue
-    }
-    #pricing {
-        background: green;
-    }
-    #contact {
-        background: orange
-    }
-}
